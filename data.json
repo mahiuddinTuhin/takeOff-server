@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Bali ",
+    "why": "From breathtaking scenery and sacred grounds to beach parties and diverse inhabitants, the magic of the island is undeniable. It's easy to see why Bali is so popular with holidaymakers and digital nomads.",
+    "description": "Maybe the most well-known and the best relaxing destination in the world is Bali. This tranquil island in Indonesia is known for being totally peaceful, with a welcoming culture that will make you feel at home. It is perfect for soul-searching, a yoga and meditation retreat or just a week of self-care. Whether you decide to try yoga, meditation, art, surfing or just want to spend some time in nature, Bali has plenty to offer you. The low-key and laid-back pace of life in Bali is the perfect way to unplug from your normal life and refresh your mind and body.",
+    "images": [
+      "https://www.studentuniverse.com/blog/wp-content/uploads/2021/05/guillaume-marques-bnMPFPuSCI0-unsplash-1125x900.jpg",
+      "https://static.toiimg.com/photo/86641692.cms"
+    ],
+    "ratings": "4.8",
+    "cost": {
+      "BusinessClass": "3500",
+      "StandardClass": "2500",
+      "BasicClass": "1300"
+    },
+    "services": "5-Days & 6-Nights"
+  },
+  {
+    "title": "Malta ",
+    "why": "Apart from its rich history, Malta is, after all, a Mediterranean island. In other words, it's surrounded by beautiful ocean and there are plenty of outdoor activities to indulge in everything from walking and cycling to diving. In fact, the clear blue sea surrounding the Maltese Islands is ideal for scuba diving.",
+    "description": "Malta is often overlooked as an island destination in Europe while tourists flock to Croatia, Greece, Ibiza and Sicily. However, Malta offers warm summer weather (nearly year-round!), incredible scuba diving and beaches, ancient history, temples and UNESCO World Heritage sites and more. In short, there’s plenty to do! The stunning scenery and sunny climate make it the perfect place to unwind and experience European culture and history in a relaxing setting. If you feel like a big dose of Vitamin D and some delicious food will do you good—Malta’s a great place to go without having to fight with swarms of tourists.",
+    "images": [
+      "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Malta/Valletta-Getty.jpg",
+      "https://static.euronews.com/articles/stories/06/03/92/72/1440x810_cmsv2_8a68597f-a205-5d19-954f-b6a0af0f689b-6039272.jpg"
+    ],
+    "ratings": "4.8",
+    "cost": {
+      "BusinessClass": "8500",
+      "StandardClass": "6500",
+      "BasicClass": "5300"
+    },
+    "services": "5-Days & 6-Nights"
+  },
+  {
+    "title": " New Orleans ",
+    "why": "It's a melting pot of cultures. And New Orleans is famous for its jazz music, Cajun food, and outrageous Mardi Gras celebrations. Among plenty of other things. New Orleans is a multifaceted city with cultural diversity, from its music and food to its architecture and language.",
+    "description": "The lively city known for its street music, festive vibe and a melting pot of French, African and American cultures is well worth the trip. NOLA is a city packed with adventures at every turn and should be on everyone’s must-visit list.",
+    "images": [
+      "https://cdn.travelpulse.com/images/19abedf4-a957-df11-b491-006073e71405/652bfbff-2d20-48f3-b1bd-f02f0f04256d/630x355.jpg",
+      "https://media.timeout.com/images/105770969/750/422/image.jpg"
+    ],
+    "ratings": "4.8",
+    "cost": {
+      "BusinessClass": "4500",
+      "StandardClass": "3500",
+      "BasicClass": "3000"
+    },
+    "services": "3-Days & 4-Nights"
+  },
+  {
+    "title": "Marrakesh, Morocco",
+    "why": "Marrakech is also known as the city of luxury, thanks to its famous palaces, 5-star restaurants, luxury spas and hammams and charming riads (traditional houses) in the medina. Amongst others, there is the Mamounia and its enchanting gardens, the luxurious Royal Mansour hammam and the refined cuisine of Namaskar Palace.",
+    "description": "This ancient walled city is home to mosques, palaces and lush gardens. It’s known as The Red City thanks to the color of the brick walls surrounding the city. The medina is a UNESCO World Heritage Centre.",
+    "images": [
+      "https://img.theculturetrip.com/450x/smart/wp-content/uploads/2016/01/shutterstock_259018373.jpg",
+      "https://www.moroccoworldnews.com/wp-content/uploads/2017/02/Marrakech-Best-City-in-Africa-for-Quality-of-Life.jpg"
+    ],
+    "ratings": "4.8",
+    "cost": {
+      "BusinessClass": "4500",
+      "StandardClass": "3500",
+      "BasicClass": "3000"
+    },
+    "services": "3-Days & 4-Nights"
+  },
+  {
+    "title": "Cape Town, South Africa",
+    "why": "Cape Town is a modern, cosmopolitan city surrounded by nature. Centred around Table Mountain, one of the New 7 Wonders of the world, the Mother City is known for its beautiful beaches, stunning biodiversity, award-winning food and wine, and sheer variety of experiences on offer.",
+    "description": "Cape Town is a dream location to visit: endless natural beauty and clifftop views, pastel pink neighborhoods and turquoise waters.",
+    "images": [
+      "https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/05/shutterstock_47182726-e1525069554812.jpg",
+      "https://www.andbeyond.com/wp-content/uploads/sites/5/cape-town-aerial-view-greenpoint-stadium.jpg"
+    ],
+    "ratings": "4.8",
+    "cost": {
+      "BusinessClass": "4500",
+      "StandardClass": "3500",
+      "BasicClass": "3000"
+    },
+    "services": "3-Days & 4-Nights"
+  },
+  {
+    "title": " Jaipur, India",
+    "why": "The forts, historical landmarks and gardens, museums Temples, Marketplaces, and many others are among the main landmarks in Jaipur. Jaipur. It is awe-inspiring to see its architecture, as well as the old tales of the Maharajas, and the artifacts that have been so thoroughly soaked in the present day of the city.",
+    "description": "Jaipur is known as the 'Pink City' for its pale terracotta buildings. This was originally done to impress the visiting Prince Albert during his 1876 tour of India by order of the Maharaja (Sawai Ram Singh). Even today, it's illegal to paint buildings any other color.",
+    "images": [
+      "https://static.toiimg.com/photo/71096592.cms",
+      "https://theimageflow.com/wp-content/uploads/2018/09/workshop-india-photography-expedition-16-9-56337759-Jaipur.jpg"
+    ],
+    "ratings": "4.8",
+    "cost": {
+      "BusinessClass": "4500",
+      "StandardClass": "3500",
+      "BasicClass": "3000"
+    },
+    "services": "3-Days & 4-Nights"
+  }
+]
