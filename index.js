@@ -58,10 +58,10 @@ async function run() {
     app.get("/places", async (req, res) => {
       // const limit = parseInt(req.query.limit) || 0;
       //serach for search query
-      const search = req.query.search;
+      const search = req.query?.search || 0;
       // page and size are calling for pagination content
-      const page = parseInt(req.query.page);
-      const size = parseInt(req.query.size);
+      const page = parseInt(req.query?.page || 0);
+      const size = parseInt(req.query?.size || 0);
       const query = search
         ? {
             $text: {
