@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Server is running well");
+  res.send("Server is active");
 });
 
 function verifyJWT(req, res, next) {
