@@ -59,7 +59,6 @@ async function run() {
       // const limit = parseInt(req.query.limit) || 0;
       //serach for search query
       const search = req.query.search;
-      // console.log(search);
       // page and size are calling for pagination content
       const page = parseInt(req.query.page);
       const size = parseInt(req.query.size);
@@ -87,17 +86,17 @@ async function run() {
       res.send(place);
     });
 
-    app.post("/addreview",verifyJWT, async (req, res) => {
+    app.post("/addreview", verifyJWT, async (req, res) => {
       const review = req.body;
       const result = await reviewCollection.insertOne(review);
       // console.log("insert done");
     });
-    app.post("/addservices",verifyJWT, async (req, res) => {
+    app.post("/addservices", verifyJWT, async (req, res) => {
       const review = req.body;
       const result = await placeCollection.insertOne(review);
       // console.log("insert done");
     });
-    app.get("/reviews/:id",  async (req, res) => {
+    app.get("/reviews/:id", async (req, res) => {
       const id = req.params.id;
       const newQuery = parseInt(req.query.sorting);
       // console.log(newQuery);
@@ -110,7 +109,7 @@ async function run() {
       // console.log(result);
       res.send(reviewsById);
     });
-    app.get("/userReview/:email",verifyJWT, async (req, res) => {
+    app.get("/userReview/:email", verifyJWT, async (req, res) => {
       const authorization = req.headers.authorization.split(" ")[1];
       console.log(authorization);
       const email = req.params.email;
@@ -125,7 +124,7 @@ async function run() {
       res.send(reviewsByEmail);
     });
 
-    app.delete("/delete/:id",verifyJWT, async (req, res) => {
+    app.delete("/delete/:id", verifyJWT, async (req, res) => {
       const id = req.params.id;
       const query = { _id: ObjectId(id) };
       const result = await reviewCollection.deleteOne(query);
