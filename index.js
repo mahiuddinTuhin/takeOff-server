@@ -56,6 +56,7 @@ async function run() {
 
     // get all places
     app.get("/places", async (req, res) => {
+      console.log("/places calledd");
       // const limit = parseInt(req.query.limit) || 0;
       //serach for search query
       const search = req.query?.search || 0;
